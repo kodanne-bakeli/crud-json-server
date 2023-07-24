@@ -1,0 +1,19 @@
+{
+  "Produits": [
+    {
+      "id": 1,
+      "title": "bananas",
+      "body": "like you've never seen as fresh as a sea breeze and soft as finely embroidered silk"
+    },
+    {
+      "id": 2,
+      "title": "apples",
+      "body": "like you've never seen as fresh as a sea breeze and soft as finely embroidered silk"
+    },
+    {
+      "id": 3,
+      "title": "strawberries",
+      "body": "like you've never seen as fresh as a sea breeze and soft as finely embroidered silk"
+    }
+  ]
+}
